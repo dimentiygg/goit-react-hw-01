@@ -1,0 +1,22 @@
+.table {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tr {
+  display: flex;
+}
+
+.td {
+  display: block;
+  width: 130px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.th {
+  width: 130px;
+  border: 1px solid black;
+  text-align: center;
+}
